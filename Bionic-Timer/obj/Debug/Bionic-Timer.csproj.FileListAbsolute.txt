@@ -8,3 +8,7 @@ C:\Users\Pawar\source\repos\Bionic-Timer\Bionic-Timer\bin\Debug\Bionic-Timer.exe
 C:\Users\Pawar\source\repos\Bionic-Timer\Bionic-Timer\bin\Debug\Bionic-Timer.pdb
 C:\Users\Pawar\source\repos\Bionic-Timer\Bionic-Timer\obj\Debug\Bionic-Timer.exe
 C:\Users\Pawar\source\repos\Bionic-Timer\Bionic-Timer\obj\Debug\Bionic-Timer.pdb
+C:\Users\Pawar\source\repos\Bionic-Timer\Bionic-Timer\bin\Debug\FluentWPF.dll
+C:\Users\Pawar\source\repos\Bionic-Timer\Bionic-Timer\bin\Debug\MetroFramework.Design.dll
+C:\Users\Pawar\source\repos\Bionic-Timer\Bionic-Timer\bin\Debug\MetroFramework.dll
+C:\Users\Pawar\source\repos\Bionic-Timer\Bionic-Timer\bin\Debug\MetroFramework.Fonts.dll

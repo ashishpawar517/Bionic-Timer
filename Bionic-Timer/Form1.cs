@@ -9,11 +9,12 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Runtime.InteropServices;
 using System.Timers;
+
 namespace Bionic_Timer
 {
    
 
-    public partial class Form1 : Form
+    public partial class Form1 : MetroFramework.Forms.MetroForm
     {
 
         // this properties are used for keep the Form on the top
@@ -80,6 +81,26 @@ namespace Bionic_Timer
         private void Form1_MouseLeave(object sender, EventArgs e)
         {
             SetWindowPos(this.Handle, HWND_TOPMOST, 0, 0, 0, 0, TOPMOST_FLAGS);
+        }
+
+        private void Form1_Load_1(object sender, EventArgs e)
+        {
+
+        }
+
+        private void metroButton1_Click(object sender, EventArgs e)
+        {
+            timer.Start();
+        }
+
+        private void metroButton2_Click(object sender, EventArgs e)
+        {
+            timer.Stop();
+        }
+
+        private void metroButton3_Click(object sender, EventArgs e)
+        {
+            timer.Stop();
         }
     }
 }
